@@ -4,7 +4,7 @@
 
 **[第 1 章 栈和队列](https://github.com/younglionwell/programmer-code-interview-guide/tree/master/src/ch1_stack_and_queue)**  
 [01. 设计一个有 getMin 功能的栈](https://github.com/younglionwell/programmer-code-interview-guide/blob/master/src/ch1_stack_and_queue/01_getMin_stack.cpp)  
-[02. 由两个栈组成队列](https://github.com/younglionwell/programmer-code-interview-guide/blob/master/src/02_implement_queue_using_stacks.cpp) 
+[02. 由两个栈组成队列](https://github.com/younglionwell/programmer-code-interview-guide/blob/master/src/02_implement_queue_using_stacks.cpp)   
 [03. 猫狗队列](https://github.com/younglionwell/programmer-code-interview-guide/blob/master/src/ch1_stack_and_queue/03_the_queue_of_dogs_and_cats.cpp)  
 [04. 用一个栈实现另一个栈的排序](https://github.com/younglionwell/programmer-code-interview-guide/blob/master/src/ch1_stack_and_queue/04_sort_stack.cpp)  
 [05. 用栈求解汉诺塔问题](https://github.com/younglionwell/programmer-code-interview-guide/blob/master/src/ch1_stack_and_queue/05_hanoi_problem.cpp)  
