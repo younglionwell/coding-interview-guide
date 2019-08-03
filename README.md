@@ -1,4 +1,4 @@
-# programmer-code-interview-guide  
+# coding-interview-guide
 
 > 程序员代码面试指南(左程云) C++实现
 
@@ -12,3 +12,10 @@
 [07. 构造数组的 MaxTree](https://github.com/younglionwell/programmer-code-interview-guide/blob/master/src/ch1_stack_and_queue/07_maximum_binary_tree.cpp)  
 [08. 求最大矩阵的大小](https://github.com/younglionwell/programmer-code-interview-guide/blob/master/src/ch1_stack_and_queue/08_maximal_rectangle.cpp)  
 [09. 最大值减去最小值小于或等于 num 的子数组数量](https://github.com/younglionwell/programmer-code-interview-guide/blob/master/src/ch1_stack_and_queue/09_max_minus_min_el_num_subarray.cpp)  
+
+**[第 2 章 链表问题](https://github.com/younglionwell/coding-interview-guide/tree/master/src/ch2_linked_list)**  
+[01. 打印两个有序链表的公共部分](https://github.com/younglionwell/coding-interview-guide/blob/master/src/ch2_linked_list/01_print_ordered_list_comm_part.cpp)  
+[02. 在单链表和双链表中删除倒数第 k 个节点](https://github.com/younglionwell/coding-interview-guide/blob/master/src/ch2_linked_list/02_remove_nth_node_from_end_of_list.cpp)  
+[03. 删除链表最中间的一个节点](https://github.com/younglionwell/coding-interview-guide/blob/master/src/ch2_linked_list/03_middle_of_the_linked_list.cpp)  
+[04. 反转单链表和双链表](https://github.com/younglionwell/coding-interview-guide/blob/master/src/ch2_linked_list/04_reverse_linked_list.cpp)  
+[05. 环形链表解决约瑟夫问题](https://github.com/younglionwell/coding-interview-guide/blob/master/src/ch2_linked_list/05_josephus_problem.cpp)  
