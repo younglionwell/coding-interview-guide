@@ -25,4 +25,5 @@
 [09. 将两个单链表求和](https://github.com/younglionwell/coding-interview-guide/blob/master/src/ch2_linked_list/09_add_two_numbers.cpp)  
 [10. 判断两个有环链表是否相交](https://github.com/younglionwell/coding-interview-guide/blob/master/src/ch2_linked_list/10_intersection_of_two_linked_lists.cpp)  
 [11. 将单链表的每 K 个节点之间逆序](https://github.com/younglionwell/coding-interview-guide/blob/master/src/ch2_linked_list/11_reverse_nodes_in_k_group.cpp)  
-[12. 移除单链表中多余的重复的元素(重复元素保留一份)](https://github.com/younglionwell/coding-interview-guide/edit/master/README.md)
+[12. 移除单链表中多余的重复的元素(重复元素保留一份)](https://github.com/younglionwell/coding-interview-guide/blob/master/src/ch2_linked_list/12_remove_duplicates_from_list.cpp)  
+ 
