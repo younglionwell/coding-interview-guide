@@ -25,5 +25,12 @@
 [09. 将两个单链表求和](https://github.com/younglionwell/coding-interview-guide/blob/master/src/ch2_linked_list/09_add_two_numbers.cpp)  
 [10. 判断两个有环链表是否相交](https://github.com/younglionwell/coding-interview-guide/blob/master/src/ch2_linked_list/10_intersection_of_two_linked_lists.cpp)  
 [11. 将单链表的每 K 个节点之间逆序](https://github.com/younglionwell/coding-interview-guide/blob/master/src/ch2_linked_list/11_reverse_nodes_in_k_group.cpp)  
-[12. 移除单链表中多余的重复的元素(重复元素保留一份)](https://github.com/younglionwell/coding-interview-guide/blob/master/src/ch2_linked_list/12_remove_duplicates_from_list.cpp)  
+[12. 移除单链表中多余的重复的元素(重复元素保留一份)](https://github.com/younglionwell/coding-interview-guide/blob/master/src/ch2_linked_list/12_remove_duplicates_from_list.cpp)    
+[13. 移除单链表中的所有值为 val 的节点](https://github.com/younglionwell/coding-interview-guide/blob/master/src/ch2_linked_list/13_remove_linked_list_elements.cpp)  
+[14. 将搜索二叉树转化为有序的双向链表](https://github.com/younglionwell/coding-interview-guide/blob/master/src/ch2_linked_list/14_convert_binary_search_tree_to_doubly_linked_list.cpp)  
+[15. 单链表的选择排序](https://github.com/younglionwell/coding-interview-guide/blob/master/src/ch2_linked_list/15_select_sort_list.cpp)  
+[16. 删除指定节点](https://github.com/younglionwell/coding-interview-guide/blob/master/src/ch2_linked_list/16_delete_node_in_a_linked_list.cpp)  
+[17. 向排好序的循环链表中插入一个节点](https://github.com/younglionwell/coding-interview-guide/blob/master/src/ch2_linked_list/17_insert_num_to_sorted_cycle_list.cpp)  
+[18. 合并两个有序链表](https://github.com/younglionwell/coding-interview-guide/blob/master/src/ch2_linked_list/18_merge_two_sorted_lists.cpp)  
+[19. 按照左右半区间的方式重新组合单链表](https://github.com/younglionwell/coding-interview-guide/blob/master/src/ch2_linked_list/19_rearrange_linked_list.cpp)  
  
